@@ -1,11 +1,12 @@
 {
-  "name": "vanilla-app-template",
+  "name": "goit-js-hw-009",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://andriipavuk.github.io/goit-js-hw-09",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-09/tree/gh-pages",
+    "build": "vite build --base=/goit-js-hw-09/",
     "preview": "vite preview"
   },
   "devDependencies": {
